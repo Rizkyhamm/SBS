@@ -1,2 +1,4 @@
-# SBS
-This repository is made for final project on Sensor and Transducer subject
+1. Judul projek         :  # SBS (Smart Blind Sensor)
+2. Problem              : Dikarenakan banyaknya teman-teman tuna netra yang kesulitan saat berjalan sendiri, seperti menabrak orang, tembok dan tiang (rintangan yang ada di depan muka)
+3. Solusi               : Maka dari pada itu, kita membuat alat yang bernama SBS. 
+4. Analisis dan Diskusi :SBS ini adalah kacamata yang dilengkapi oleh sensor ultrasonik. Kami juga menggunakan Arduino UNO sebagai mikrokontroller.
