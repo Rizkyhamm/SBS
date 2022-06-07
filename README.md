@@ -3,3 +3,4 @@
 3. Solusi               : Maka dari pada itu, kita membuat alat yang bernama SBS. 
 4. Analisis dan Diskusi :SBS ini adalah kacamata yang dilengkapi oleh sensor ultrasonik. Kami juga menggunakan Arduino UNO sebagai mikrokontroller.
 5. Referensi            : https://youtu.be/RuCtc7VAmAo
+6. Video uji coba       : https://youtu.be/RuCtc7VAmAo
