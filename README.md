@@ -8,4 +8,4 @@ SBS ini adalah kacamata yang dilengkapi oleh sensor ultrasonik. Kami juga menggu
 # Referensi
 Kami mengambil referansi dari projek yang ada pada [link ini](https://youtu.be/RuCtc7VAmAo).
 # Video Uji Coba
-Berikut imi adalah [video uji coba](https://youtu.be/RuCtc7VAmAo) dari projek kami.
+Berikut ini adalah video [ uji coba](https://youtu.be/3s01DRGovjo) dari projek kami.
